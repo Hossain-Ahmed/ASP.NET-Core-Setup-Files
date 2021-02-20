@@ -1,0 +1,12 @@
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb

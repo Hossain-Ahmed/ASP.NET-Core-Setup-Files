@@ -1,0 +1,9 @@
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.deps.json
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csprojAssemblyReference.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.AssemblyInfo.cs
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.pdb

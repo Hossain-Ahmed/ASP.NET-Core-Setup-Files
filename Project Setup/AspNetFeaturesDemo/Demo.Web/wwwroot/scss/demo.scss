@@ -1,0 +1,15 @@
+﻿@import "./header";
+
+div {
+    border: solid 1px $borderColor;
+
+    @include buttonStyle(red);
+
+    a {
+        color: red;
+        &:hover {
+            background-color: black;
+        }
+    }
+}
+

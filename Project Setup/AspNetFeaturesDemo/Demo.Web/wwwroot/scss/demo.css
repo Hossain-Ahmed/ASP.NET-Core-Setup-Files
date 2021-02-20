@@ -1,0 +1,8 @@
+﻿div {
+  border: solid 1px green; }
+  div button {
+    border: dotted 1px red; }
+  div a {
+    color: red; }
+    div a:hover {
+      background-color: black; }

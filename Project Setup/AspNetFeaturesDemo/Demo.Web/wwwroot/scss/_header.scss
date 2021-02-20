@@ -1,0 +1,7 @@
+﻿$borderColor: green;
+
+@mixin buttonStyle($color) {
+    button {
+        border: dotted 1px $color;
+    }
+}

@@ -1,0 +1,26 @@
+Need to download from Nuget:::
+
+DependencyInjection:
+Autofac.DependencyInjection
+
+ErrorLogger:
+Serilog.Asp
+
+EntityFramework (CodeFisrt):
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+sytem.linq.dynamic.core
+
+<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.6" />
+<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.6" />
+
+WorkerService:
+htmlAgilityPack
+
+UnitTesting:
+template: N-Unit
+Shoudly
+Autofac.Extras.Moq

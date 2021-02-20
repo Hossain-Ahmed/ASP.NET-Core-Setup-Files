@@ -1,0 +1,17 @@
+2021-02-20 12:46:04.106 +06:00 [INF] Application Starting up
+2021-02-20 13:57:39.164 +06:00 [INF] Application Starting up
+2021-02-20 13:58:53.160 +06:00 [WRN] Role null validation failed: DuplicateRoleName.
+2021-02-20 13:58:53.215 +06:00 [WRN] Role null validation failed: DuplicateRoleName.
+2021-02-20 13:58:53.223 +06:00 [WRN] Role null validation failed: DuplicateRoleName.
+2021-02-20 13:59:45.848 +06:00 [INF] User created a new account with password.
+2021-02-20 14:10:15.387 +06:00 [INF] Application Starting up
+2021-02-20 14:14:49.272 +06:00 [INF] User logged in.
+2021-02-20 14:15:42.682 +06:00 [INF] User created a new account with password.
+2021-02-20 14:16:19.251 +06:00 [WRN] Invalid password for user d0fd0fdf-b68a-4898-55c5-08d8d5757cc8.
+2021-02-20 14:16:19.261 +06:00 [WRN] User d0fd0fdf-b68a-4898-55c5-08d8d5757cc8 failed to provide the correct password.
+2021-02-20 14:16:31.498 +06:00 [WRN] Invalid password for user d0fd0fdf-b68a-4898-55c5-08d8d5757cc8.
+2021-02-20 14:16:31.499 +06:00 [WRN] User d0fd0fdf-b68a-4898-55c5-08d8d5757cc8 failed to provide the correct password.
+2021-02-20 14:16:50.739 +06:00 [INF] User logged in.
+2021-02-20 14:17:15.473 +06:00 [WRN] Invalid password for user 4096d12c-455d-4aad-35ec-08d8d577b6dc.
+2021-02-20 14:17:15.474 +06:00 [WRN] User 4096d12c-455d-4aad-35ec-08d8d577b6dc failed to provide the correct password.
+2021-02-20 14:17:22.105 +06:00 [INF] User logged in.
