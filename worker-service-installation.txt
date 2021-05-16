@@ -7,14 +7,14 @@ CreateHostBuilder method
 3) Publish the project in folder
 
 4) Run command
-sc.exe create TdService binpath= E:\publish\WorkerService1.exe start= auto
+sc.exe create VivaService binpath= E:\publish\WorkerServiceViva.exe start= auto
 
 5) Start the service
 
 Worker Service uninstallation
 1) Stop the service
 2) Run command
-sc.exe delete TdService 
+sc.exe delete VivaService 
 
 
 

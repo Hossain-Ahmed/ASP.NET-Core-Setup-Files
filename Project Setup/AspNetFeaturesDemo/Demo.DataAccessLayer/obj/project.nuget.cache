@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxoNivfM5xBl1biBBnuJqvUFmq9a8nq7R2RvdWqh1kunCjrwMckvWJ9LBrCbGaYfnG1Rzi4U81uFMpPQwkToQQ==",
+  "dgSpecHash": "QXSbBwiwNojVxz92fNwBTIa7mkHz6TxLkqmGehE1YB4+DeLa0d84fW1Se2bRgJudqHxA6lhR7SEE+pwKl/PJJA==",
   "success": true,
-  "projectFilePath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+  "projectFilePath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DCL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DCL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

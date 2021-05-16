@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKQ9CZS3uvmJw3j0ISeXDJzSG8GvjZEJoVhIhNtpxz5uKjtwSyJmO6p8trE4xj+ikM1DFM5T9VBQQefhOLfuwg==",
+  "dgSpecHash": "O4ehjmlstMumqTkyl2EEBwiukj6KNGCuWCsxiBqidvIihW5K6RpiguE1lqFjKErI/Flf5SIiIB8vp0bW5QhOoQ==",
   "success": true,
-  "projectFilePath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\Demo.Web.csproj",
+  "projectFilePath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\Demo.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DCL\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\DCL\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

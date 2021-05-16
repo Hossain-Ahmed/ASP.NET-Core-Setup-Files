@@ -6183,11 +6183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+      "projectUniqueName": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
       "projectName": "Demo.DataAccessLayer",
-      "projectPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+      "projectPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\obj\\",
+      "outputPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

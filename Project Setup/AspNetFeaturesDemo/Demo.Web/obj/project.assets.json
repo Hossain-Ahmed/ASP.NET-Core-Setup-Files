@@ -9435,11 +9435,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\Demo.Web.csproj",
+      "projectUniqueName": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\Demo.Web.csproj",
       "projectName": "Demo.Web",
-      "projectPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\Demo.Web.csproj",
+      "projectPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\Demo.Web.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\obj\\",
+      "outputPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9459,14 +9459,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
-              "projectPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj"
+            "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
+              "projectPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj"
             },
-            "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Foundation\\Demo.Foundation.csproj": {
-              "projectPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Foundation\\Demo.Foundation.csproj"
+            "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Foundation\\Demo.Foundation.csproj": {
+              "projectPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Foundation\\Demo.Foundation.csproj"
             },
-            "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj": {
-              "projectPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj"
+            "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj": {
+              "projectPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj"
             }
           }
         }

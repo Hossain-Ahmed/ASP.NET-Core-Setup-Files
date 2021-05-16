@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj": {}
+    "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj": {}
   },
   "projects": {
-    "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj": {
+    "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj",
+        "projectUniqueName": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj",
         "projectName": "Demo.Membership",
-        "projectPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj",
+        "projectPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\Demo.Membership.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "E:\\2_Preparation Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\obj\\",
+        "outputPath": "E:\\2_Preparation Files\\ASP.NET-Core-Setup-Files\\Project Setup\\AspNetFeaturesDemo\\Demo.Membership\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
